@@ -44,7 +44,8 @@ Une fois que vous avez installé VS Code sur votre ordinateur, vous pouvez crée
 
 Sur votre bureau, faites un clic droit, puis "nouveau dossier". Vous pouvez le nommer "dev".  
 A l'intérieur de ce dossier, faites à nouveau un clic droit, mais cette fois-ci, cliquez sur "nouveau fichier texte" et renommez-le "index.html" (assurez-vous de supprimer l'extension ".txt"). On vous demandera si vous étes sûr de vouloir changer l'extension du fichier, cliquez sur oui.  
-Faites de même pour le fichier "style.css".      
+Faites de même pour le fichier "style.css".    
+N'oubliez pas de télécharger le fichier "logo.png" dans le dossier dev (vous pouvez utiliser votre propre logo).  
 
 # Ajouter le code HTML et CSS
 Ouvrez VS Code sur votre ordinateur  
